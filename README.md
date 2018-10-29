@@ -1,4 +1,4 @@
-# Project Name
+# Middleman template by [Thoughtbot](https://github.com/thoughtbot/middleman-template)
 
 This app is built with [Middleman].
 
